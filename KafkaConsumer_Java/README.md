@@ -1,6 +1,6 @@
-# Kafka Streaming Application with Quarkus
+# Kafka Streaming Application with Java
 
-This project is a simple example of a Kafka consumer application built using the Java.
+This project is a simple example of a Kafka consumer application built using Java.
 
 ## Blog Details
 
