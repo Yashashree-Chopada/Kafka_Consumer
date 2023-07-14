@@ -13,7 +13,7 @@ This repository is accompanied by a blog post that provides a detailed explanati
 - Quarkus integration: The application utilizes the lightweight and fast Quarkus framework for building reactive and scalable Kafka consumer applications.
 
 
-You can read the full blog post [here]().
+You can read the full blog post [here](https://medium.com/@yashashreechopada/real-time-data-processing-made-easy-with-kafka-consumer-api-c038c0a72374).
 
 ## To use this Kafka consumer application, follow these steps:
 
